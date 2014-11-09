@@ -3,7 +3,7 @@ define(['utils/appFunc','utils/tplManager','i18n!nls/lang'],function(appFunc,TM,
     var homeView = {
 
         init: function(){
-            //appFunc.showToolbar('.views');
+            appFunc.showToolbar('.views');
             appFunc.showNavbar('.views');
             $$('#homeView .pull-to-refresh-layer').show();
 
