@@ -1,0 +1,7 @@
+.layout-red .navbar,
+.navbar.layout-red {
+  border-bottom-color: #bb120f;
+  background-color: #cf201c;
+  color: #ffffff;
+}
+.loading{background: url(../img/20140823123620628_easyicon_net_96.png) no-repeat center center;}
